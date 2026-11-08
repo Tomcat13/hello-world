@@ -3,3 +3,6 @@
 x = 5
 y = 2
 print(f"sum is {x + y}")
+
+# new addition
+z = 3
